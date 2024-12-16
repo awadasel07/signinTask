@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453560691063",
+    "project_id": "bottommenu-64a40",
+    "storage_bucket": "bottommenu-64a40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453560691063:android:a2481ad8e5ff20f6729972",
+        "android_client_info": {
+          "package_name": "com.example.bottommenu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlKmSNSUlcABo2wYLvA9AimXvrqWhHo6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
